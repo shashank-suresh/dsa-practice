@@ -3,7 +3,11 @@
 ## Data Structures
 This project currently has the following data structures:
 
-- Trie
+- [X] Trie
+- [ ] Trie (node-based implementation)
+- [ ] Segment Tree
+- [ ] Fenwick Tree
+
 
 ## Low Level Design Patterns
 - https://refactoring.guru/design-patterns
