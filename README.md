@@ -5,8 +5,11 @@ This project currently has the following data structures:
 
 - [X] Trie
 - [ ] Trie (node-based implementation)
-- [ ] Segment Tree
+- [X] Segment Tree
 - [ ] Fenwick Tree
+
+### Problems to Attempt
+- [ ] Given a set of intervals, find how many overlap at a given point, or find the first free slot (using a Segment Tree)
 
 
 ## Low Level Design Patterns
